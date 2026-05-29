@@ -77,25 +77,25 @@ This project provides:
 
 ## 🔐 Login Page
 
-![Login Page](screenshorts/login.png)
+![Login Page](Screenshots/login.png)
 
 ---
 
 ## 📋 Employee Dashboard
 
-![Dashboard](screenshorts/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ## 👤 Employee Registration
 
-![Register](screenshorts/register.png)
+![Register](Screenshots/register.png)
 
 ---
 
 ## ✏️ Update Employee
 
-![Update Employee](screenshorts/update.png)
+![Update Employee](Screenshots/update.png)
 
 ---
 
