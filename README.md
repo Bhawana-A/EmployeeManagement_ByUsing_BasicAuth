@@ -1,6 +1,16 @@
-# Employee Management System
+# 🚀 Employee Management System
 
-## Overview
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge\&logo=thymeleaf\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+## 📌 Overview
 
 A secure and dynamic Employee Management System built using Spring Boot, Spring Security, Thymeleaf, and MySQL.
 
@@ -15,7 +25,7 @@ This project provides:
 
 ---
 
-# Features
+# ✨ Features
 
 * Secure Login & Logout
 * Employee Registration
@@ -32,7 +42,7 @@ This project provides:
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 | Technology      | Usage                          |
 | --------------- | ------------------------------ |
@@ -48,7 +58,7 @@ This project provides:
 
 ---
 
-# User Roles
+# 👥 User Roles
 
 ## ADMIN
 
@@ -63,7 +73,7 @@ This project provides:
 
 ---
 
-# Security Features
+# 🔐 Security Features
 
 * BCrypt Password Encoding
 * Session Invalidation on Logout
@@ -73,7 +83,23 @@ This project provides:
 
 ---
 
-# Application Screenshots
+# 🌐 Live Demo
+
+## Render Deployment
+
+https://employeemanagement-byusing-basicauth-1.onrender.com
+
+---
+
+# 📂 GitHub Repository
+
+## GitHub Link
+
+https://github.com/Bhawana-A/EmployeeManagement_ByUsing_BasicAuth
+
+---
+
+# 📸 Application Screenshots
 
 ## Login Page
 
@@ -99,9 +125,9 @@ This project provides:
 
 ---
 
-# Project Structure
+# 📁 Project Structure
 
-```bash
+```bash id="zqvzxh"
 src/main/java/com/example
 │
 ├── config
@@ -114,7 +140,7 @@ src/main/java/com/example
 
 ---
 
-# Database
+# 🗄️ Database
 
 * MySQL Database
 * Hibernate ORM
@@ -122,7 +148,7 @@ src/main/java/com/example
 
 ---
 
-# Frontend
+# 🎨 Frontend
 
 * Thymeleaf Templates
 * Bootstrap UI
@@ -130,7 +156,7 @@ src/main/java/com/example
 
 ---
 
-# Learning Outcomes
+# 📚 Learning Outcomes
 
 * Spring Boot Development
 * Spring Security Authentication
@@ -143,8 +169,8 @@ src/main/java/com/example
 
 ---
 
-# Author
+# 👩‍💻 Author
 
 ## Bhawana Ahirwar
 
-Passionate Java & Spring Boot Developer
+Passionate Java & Spring Boot Developer 🚀
