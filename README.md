@@ -103,4 +103,4 @@ This project provides authentication, role-based authorization, employee registr
 
 ## 👩‍💻 Author
 
-**Bhawana B**
+**Bhawana Ahirwar**
