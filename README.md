@@ -1,58 +1,69 @@
 # 🧑‍💼 Employee Management System
 
+## 📌 Overview
+
 A secure and dynamic Employee Management System built using **Spring Boot**, **Spring Security**, **Thymeleaf**, and **MySQL**.
-This project provides authentication, role-based authorization, employee registration, dashboard management, update/delete operations, and secure login/logout functionality.
+
+This project provides:
+
+* 🔐 Authentication & Authorization
+* 👥 Employee Management
+* 🛡️ Role-Based Access Control
+* 📋 Dashboard Management
+* ✏️ Employee Update/Delete Operations
+* 🚪 Secure Login & Logout System
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 * 🔐 Secure Login & Logout
 * 👤 Employee Registration
-* 🛡️ Role-Based Access Control (ADMIN / USER)
-* 🔑 Spring Security Authentication
+* 🛡️ Role-Based Authentication
 * 🔒 BCrypt Password Encryption
 * 📋 Employee Dashboard
 * ➕ Add Employees
 * ✏️ Update Employee Details
 * ❌ Delete Employees
-* 🗄️ MySQL Database Integration
 * 🌐 Thymeleaf Frontend
-* ⚡ Session Handling & Cache Control
-* 🚫 Protected Routes for Users & Admins
+* 🗄️ MySQL Database Integration
+* ⚡ Session Handling
+* 🚫 Cache Protection After Logout
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🔐 Spring Security
-* 🗃️ Spring Data JPA
-* 🎨 Thymeleaf
-* 🛢️ MySQL
-* 📦 Hibernate
-* 💅 Bootstrap
-* 🔧 Maven
+| Technology          | Usage                          |
+| ------------------- | ------------------------------ |
+| ☕ Java              | Backend Language               |
+| 🌱 Spring Boot      | Application Framework          |
+| 🔐 Spring Security  | Authentication & Authorization |
+| 🗃️ Spring Data JPA | Database Operations            |
+| 🛢️ MySQL           | Database                       |
+| 🎨 Thymeleaf        | Frontend Template Engine       |
+| 💅 Bootstrap        | UI Design                      |
+| 📦 Hibernate        | ORM                            |
+| 🔧 Maven            | Dependency Management          |
 
 ---
 
-## 👥 User Roles
+# 👥 User Roles
 
-### 👑 ADMIN
+## 👑 ADMIN
 
 * 👀 View all employees
 * ✏️ Update employee details
 * ❌ Delete employees
 
-### 🙋 USER
+## 🙋 USER
 
 * 📋 View dashboard
 * 👤 View employee details
 
 ---
 
-## 🔒 Security Features
+# 🔒 Security Features
 
 * 🔐 BCrypt Password Encoding
 * 🧹 Session Invalidation on Logout
@@ -62,17 +73,38 @@ This project provides authentication, role-based authorization, employee registr
 
 ---
 
-## 📂 Project Structure
+# 📸 Application Screenshots
 
-* 🎮 Controller Layer
-* ⚙️ Service Layer
-* 🗄️ Repository Layer
-* 🔒 Security Configuration
-* 🎨 Thymeleaf Templates
+## 🔐 Login Page
 
 ---
 
-## 🛢️ Database
+## 📋 Employee Dashboard
+
+---
+
+## 👤 Employee Registration
+
+---
+
+## ✏️ Update Employee
+
+---
+
+# 📂 Project Structure
+
+bash
+src/main/java/com/example
+│
+├── config
+├── controller
+├── entity
+├── repo
+├── security
+└── service
+
+
+# 🛢️ Database
 
 * 🐬 MySQL Database
 * 🔄 Hibernate ORM
@@ -80,7 +112,7 @@ This project provides authentication, role-based authorization, employee registr
 
 ---
 
-## 💻 Frontend
+# 💻 Frontend
 
 * 🎨 Thymeleaf Templates
 * 💅 Bootstrap UI
@@ -88,7 +120,7 @@ This project provides authentication, role-based authorization, employee registr
 
 ---
 
-## 📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 * 🌱 Spring Boot Development
 * 🔐 Spring Security Authentication
@@ -101,6 +133,8 @@ This project provides authentication, role-based authorization, employee registr
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-**Bhawana Ahirwar**
+## **Bhawana B**
+
+🌟 Passionate Java & Spring Boot Developer
