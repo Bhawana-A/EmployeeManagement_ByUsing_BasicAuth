@@ -103,25 +103,25 @@ https://github.com/Bhawana-A/EmployeeManagement_ByUsing_BasicAuth
 
 ## Login Page
 
-![Login Page](Screenshots/login.png)
+![Login Page](Screenshot/login.png)
 
 ---
 
 ## Employee Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshot/dashboard.png)
 
 ---
 
 ## Employee Registration
 
-![Register](Screenshots/register.png)
+![Register](Screenshot/register.png)
 
 ---
 
 ## Update Employee
 
-![Update Employee](Screenshots/update.png)
+![Update Employee](Screenshot/update.png)
 
 ---
 
