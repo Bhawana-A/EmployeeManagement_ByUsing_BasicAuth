@@ -77,23 +77,31 @@ This project provides:
 
 ## 🔐 Login Page
 
+![Login Page](screenshorts/login.png)
+
 ---
 
 ## 📋 Employee Dashboard
+
+![Dashboard](screenshorts/dashboard.png)
 
 ---
 
 ## 👤 Employee Registration
 
+![Register](screenshorts/register.png)
+
 ---
 
 ## ✏️ Update Employee
+
+![Update Employee](screenshorts/update.png)
 
 ---
 
 # 📂 Project Structure
 
-bash
+```bash
 src/main/java/com/example
 │
 ├── config
@@ -102,7 +110,9 @@ src/main/java/com/example
 ├── repo
 ├── security
 └── service
+```
 
+---
 
 # 🛢️ Database
 
@@ -135,6 +145,6 @@ src/main/java/com/example
 
 # 👩‍💻 Author
 
-## **Bhawana B**
+## **Bhawana Ahirwar**
 
 🌟 Passionate Java & Spring Boot Developer
